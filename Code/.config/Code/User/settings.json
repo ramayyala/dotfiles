@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "terminal.integrated.inheritEnv": false,
+    "workbench.colorTheme": "Catppuccin Mocha"
+}
