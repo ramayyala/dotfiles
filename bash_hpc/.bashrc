@@ -202,3 +202,5 @@ alias oldvim="vim"
 
 #BIND KEYS
 bind '"\C-f": "nvim $(fzf)\n"' # binds control+f to fzf search and the selected file gets opened in neovim
+bind 'set show-all-if-ambiguous on'
+bind 'TAB:menu-complete'
